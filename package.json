@@ -1,0 +1,17 @@
+{
+  "name" : "Teachers ToolBox",
+  "description" : "All purpose toolkit for educators",
+  "version" : "0.1.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/SenseiSnippets/Toolbox.git"
+  },
+  "author" : {
+    "name" : "Jason Spence",
+    "email" : "jasonthesensei@gmail.com"
+    },
+  "dependencies" : {
+    
+  }
+
+}
